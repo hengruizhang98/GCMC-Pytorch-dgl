@@ -1,0 +1,13 @@
+*.iml
+*.xml
+/idea/
+/data/
+.idea/dictionariesgit
+.idea/$CACHE_FILE$
+.idea/dictionaries
+__pycache__/
+
+.Ds_Store
+*/.Ds_Store
+*/__pycache__
+__pycache__
