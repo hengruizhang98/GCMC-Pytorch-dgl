@@ -4,6 +4,10 @@
 
 A Pytorch implementation of GCMC model with Deep Graph Library (DGL). The user-item bipartite graph is built using dgl-Heterogeneous Graph.
 
+Dataset link: https://drive.google.com/file/d/1wLq3dkWxxVyymrNlqQLZB4nuj6PEeQlW/view?usp=sharing .
+
+DGL official implementation: https://github.com/dmlc/dgl/tree/master/examples/pytorch/gcmc.
+
 ## Paper
 
 The gcmc model is proposed by the [paper](https://arxiv.org/abs/1706.02263) below:
